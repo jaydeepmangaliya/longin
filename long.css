@@ -1,0 +1,79 @@
+body{ 
+background-image: url(/simple/lon.html/pexels-henry-&-co-1939485.jpg);     
+    
+} 
+.main{ 
+    background-color: #000000; 
+ height: 420px;
+ width: 350px;
+ border-radius: 9%; 
+ position: absolute; 
+ right: 41% ;
+ ;
+ top: 20%;
+} 
+.second{ 
+   color: white;
+   font-size: 40px; 
+   position: relative;
+   left: 50px;
+   top: 80px; 
+   font-family: 'Courier New', Courier, monospace;
+}
+.p1{ 
+    color: white;
+    font-size: 20px;
+    position: relative; 
+    top: 90px;
+    left:130px;
+} 
+.p2{ 
+    color: white;
+    font-size: 20px;
+    position: relative; 
+    top: 125px;
+    left:120px;
+} 
+.pass{ 
+    position: absolute;
+    top: 275px;
+    right: 110px;
+}
+.text{ 
+    position: absolute;
+    top: 190px; 
+    right: 110px;
+} 
+.lock{ 
+    height: 35px; 
+    position: absolute;
+    right: 260px; 
+    bottom: 120px;
+} 
+.user{ 
+    height: 30px; 
+    position: absolute;
+    right: 260px;
+    top:185px ;
+} 
+.seconduser{  
+    height: 160px;  
+    position: absolute;
+    top: -80px; 
+    right: 100px;
+   
+} 
+.sign{ 
+    color: white;
+    font-size: 20px; 
+    position: absolute;
+    bottom: 20px; 
+    left: 50px;
+} 
+.forgot{ 
+    color: white;
+    font-size: 20px; 
+    position: absolute;
+    bottom: 20px; 
+    right: 50px;
+} 
